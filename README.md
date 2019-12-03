@@ -1,5 +1,4 @@
-# Git-Demo-by-Commandline
-HOW TO
+﻿# HOW TO
 
 ★	*GitBash at the beginning
 ●	cd c:
@@ -31,6 +30,21 @@ HOW TO
 ●	git clone -b branchname https://www.github.com/SMD-Assignments.git
 ●	git push origin [ur branch name]
 ●	git push -f origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
